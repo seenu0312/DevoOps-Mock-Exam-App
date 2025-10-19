@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1760872143,,"wq!"
+|2,0,1760872852,,"wq!"
+:q!
+|2,0,1760872575,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,52 @@
 # Registers:
 
 # File marks:
-'0  42  16  ~/docker-compose.yml
-|4,48,42,16,1760872143,"~/docker-compose.yml"
+'0  255  0  ~/jenkinsfile
+|4,48,255,0,1760872852,"~/jenkinsfile"
+'1  506  7  ~/jenkinsfile
+|4,49,506,7,1760872575,"~/jenkinsfile"
+'2  252  7  ~/jenkinsfile
+|4,50,252,7,1760872575,"~/jenkinsfile"
+'3  42  16  ~/docker-compose.yml
+|4,51,42,16,1760872143,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  255  0  ~/jenkinsfile
+|4,39,255,0,1760872852,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1760872580,"~/jenkinsfile"
+-'  506  7  ~/jenkinsfile
+|4,39,506,7,1760872575,"~/jenkinsfile"
+-'  252  7  ~/jenkinsfile
+|4,39,252,7,1760872575,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1760872538,"~/jenkinsfile"
+-'  42  16  ~/docker-compose.yml
+|4,39,42,16,1760872143,"~/docker-compose.yml"
+-'  42  16  ~/docker-compose.yml
+|4,39,42,16,1760872143,"~/docker-compose.yml"
+-'  42  16  ~/docker-compose.yml
+|4,39,42,16,1760872143,"~/docker-compose.yml"
 -'  42  16  ~/docker-compose.yml
 |4,39,42,16,1760872143,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1760872126,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1760872126,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1760872126,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1760872126,"~/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkinsfile
+	*	1760872850	0
+	"	255	0
+	^	255	0
+	.	254	1
+	+	506	8
+	+	254	1
 
 > ~/docker-compose.yml
 	*	1760872140	0
