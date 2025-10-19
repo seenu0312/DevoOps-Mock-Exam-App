@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1760875475,,"wq!"
+|2,0,1760876106,,"wq!"
 :q!
 |2,0,1760873184,,"q!"
 
@@ -27,230 +27,258 @@
 # Registers:
 
 # File marks:
-'0  11  1  ~/database/init.sql
-|4,48,11,1,1760875475,"~/database/init.sql"
-'1  11  1  ~/db/init.sql
-|4,49,11,1,1760874845,"~/db/init.sql"
-'2  11  1  ~/frontend/db/init.sql
-|4,50,11,1,1760874491,"~/frontend/db/init.sql"
-'3  11  1  ~/frontend/database/init.sql
-|4,51,11,1,1760874299,"~/frontend/database/init.sql"
-'4  288  0  ~/frontend/result.html
-|4,52,288,0,1760874144,"~/frontend/result.html"
-'5  400  0  ~/frontend/index.html
-|4,53,400,0,1760873978,"~/frontend/index.html"
-'6  425  0  ~/frontend/exam.html
-|4,54,425,0,1760873747,"~/frontend/exam.html"
-'7  36  6  ~/frontend/admin.html
-|4,55,36,6,1760873595,"~/frontend/admin.html"
-'8  342  0  ~/DevOps
-|4,56,342,0,1760873389,"~/DevOps"
-'9  682  0  ~/DevOps
-|4,57,682,0,1760873184,"~/DevOps"
+'0  6  16  ~/backend/requirtment.txt
+|4,48,6,16,1760876106,"~/backend/requirtment.txt"
+'1  152  0  ~/backend/question.py
+|4,49,152,0,1760876076,"~/backend/question.py"
+'2  134  37  ~/backend/app.py
+|4,50,134,37,1760876044,"~/backend/app.py"
+'3  13  23  ~/backend/Dockerfile
+|4,51,13,23,1760875970,"~/backend/Dockerfile"
+'4  11  1  ~/database/init.sql
+|4,52,11,1,1760875475,"~/database/init.sql"
+'5  11  1  ~/db/init.sql
+|4,53,11,1,1760874845,"~/db/init.sql"
+'6  11  1  ~/frontend/db/init.sql
+|4,54,11,1,1760874491,"~/frontend/db/init.sql"
+'7  11  1  ~/frontend/database/init.sql
+|4,55,11,1,1760874299,"~/frontend/database/init.sql"
+'8  288  0  ~/frontend/result.html
+|4,56,288,0,1760874144,"~/frontend/result.html"
+'9  400  0  ~/frontend/index.html
+|4,57,400,0,1760873978,"~/frontend/index.html"
 
 # Jumplist (newest first):
+-'  6  16  ~/backend/requirtment.txt
+|4,39,6,16,1760876106,"~/backend/requirtment.txt"
+-'  1  0  ~/backend/requirtment.txt
+|4,39,1,0,1760876093,"~/backend/requirtment.txt"
+-'  152  0  ~/backend/question.py
+|4,39,152,0,1760876076,"~/backend/question.py"
+-'  152  0  ~/backend/question.py
+|4,39,152,0,1760876076,"~/backend/question.py"
+-'  1  0  ~/backend/question.py
+|4,39,1,0,1760876054,"~/backend/question.py"
+-'  1  0  ~/backend/question.py
+|4,39,1,0,1760876054,"~/backend/question.py"
+-'  134  37  ~/backend/app.py
+|4,39,134,37,1760876044,"~/backend/app.py"
+-'  134  37  ~/backend/app.py
+|4,39,134,37,1760876044,"~/backend/app.py"
+-'  134  37  ~/backend/app.py
+|4,39,134,37,1760876044,"~/backend/app.py"
+-'  134  37  ~/backend/app.py
+|4,39,134,37,1760876044,"~/backend/app.py"
+-'  1  0  ~/backend/app.py
+|4,39,1,0,1760875977,"~/backend/app.py"
+-'  1  0  ~/backend/app.py
+|4,39,1,0,1760875977,"~/backend/app.py"
+-'  1  0  ~/backend/app.py
+|4,39,1,0,1760875977,"~/backend/app.py"
+-'  1  0  ~/backend/app.py
+|4,39,1,0,1760875977,"~/backend/app.py"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  13  23  ~/backend/Dockerfile
+|4,39,13,23,1760875970,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
+-'  1  0  ~/backend/Dockerfile
+|4,39,1,0,1760875953,"~/backend/Dockerfile"
 -'  11  1  ~/database/init.sql
 |4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  11  1  ~/database/init.sql
+|4,39,11,1,1760875475,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
+-'  1  0  ~/database/init.sql
+|4,39,1,0,1760875456,"~/database/init.sql"
 -'  1  0  ~/database/init.sql
 |4,39,1,0,1760875456,"~/database/init.sql"
 -'  11  1  ~/db/init.sql
 |4,39,11,1,1760874845,"~/db/init.sql"
 -'  11  1  ~/db/init.sql
 |4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
+-'  11  1  ~/db/init.sql
+|4,39,11,1,1760874845,"~/db/init.sql"
 -'  1  0  ~/db/init.sql
 |4,39,1,0,1760874833,"~/db/init.sql"
 -'  1  0  ~/db/init.sql
 |4,39,1,0,1760874833,"~/db/init.sql"
--'  11  1  ~/frontend/db/init.sql
-|4,39,11,1,1760874491,"~/frontend/db/init.sql"
--'  11  1  ~/frontend/db/init.sql
-|4,39,11,1,1760874491,"~/frontend/db/init.sql"
--'  11  1  ~/frontend/db/init.sql
-|4,39,11,1,1760874491,"~/frontend/db/init.sql"
--'  11  1  ~/frontend/db/init.sql
-|4,39,11,1,1760874491,"~/frontend/db/init.sql"
--'  1  0  ~/frontend/db/init.sql
-|4,39,1,0,1760874473,"~/frontend/db/init.sql"
--'  1  0  ~/frontend/db/init.sql
-|4,39,1,0,1760874473,"~/frontend/db/init.sql"
--'  1  0  ~/frontend/db/init.sql
-|4,39,1,0,1760874473,"~/frontend/db/init.sql"
--'  1  0  ~/frontend/db/init.sql
-|4,39,1,0,1760874473,"~/frontend/db/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  11  1  ~/frontend/database/init.sql
-|4,39,11,1,1760874299,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  1  0  ~/frontend/database/init.sql
-|4,39,1,0,1760874279,"~/frontend/database/init.sql"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  288  0  ~/frontend/result.html
-|4,39,288,0,1760874144,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  1  0  ~/frontend/result.html
-|4,39,1,0,1760874136,"~/frontend/result.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  400  0  ~/frontend/index.html
-|4,39,400,0,1760873978,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
--'  1  0  ~/frontend/index.html
-|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/db/init.sql
+|4,39,1,0,1760874833,"~/db/init.sql"
+-'  1  0  ~/db/init.sql
+|4,39,1,0,1760874833,"~/db/init.sql"
+-'  1  0  ~/db/init.sql
+|4,39,1,0,1760874833,"~/db/init.sql"
+-'  1  0  ~/db/init.sql
+|4,39,1,0,1760874833,"~/db/init.sql"
 
 # History of marks within files (newest to oldest):
+
+> ~/backend/requirtment.txt
+	*	1760876104	0
+	"	6	16
+	^	6	17
+	.	6	16
+	+	6	16
+
+> ~/backend/question.py
+	*	1760876073	0
+	"	152	0
+	^	152	1
+	.	152	0
+	+	152	0
+
+> ~/backend/app.py
+	*	1760876042	0
+	"	134	37
+	^	134	38
+	.	134	37
+	+	134	37
+
+> ~/backend/Dockerfile
+	*	1760875968	0
+	"	13	23
+	^	13	24
+	.	13	23
+	+	13	23
 
 > ~/database/init.sql
 	*	1760875472	0
