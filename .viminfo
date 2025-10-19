@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1760873389,,"wq!"
+|2,0,1760874144,,"wq!"
 :q!
 |2,0,1760873184,,"q!"
 
@@ -27,138 +27,258 @@
 # Registers:
 
 # File marks:
-'0  342  0  ~/DevOps
-|4,48,342,0,1760873389,"~/DevOps"
-'1  682  0  ~/DevOps
-|4,49,682,0,1760873184,"~/DevOps"
-'2  341  0  ~/DevOps
-|4,50,341,0,1760873184,"~/DevOps"
-'3  255  0  ~/jenkinsfile
-|4,51,255,0,1760872852,"~/jenkinsfile"
-'4  506  7  ~/jenkinsfile
-|4,52,506,7,1760872575,"~/jenkinsfile"
-'5  252  7  ~/jenkinsfile
-|4,53,252,7,1760872575,"~/jenkinsfile"
-'6  42  16  ~/docker-compose.yml
-|4,54,42,16,1760872143,"~/docker-compose.yml"
+'0  288  0  ~/frontend/result.html
+|4,48,288,0,1760874144,"~/frontend/result.html"
+'1  400  0  ~/frontend/index.html
+|4,49,400,0,1760873978,"~/frontend/index.html"
+'2  425  0  ~/frontend/exam.html
+|4,50,425,0,1760873747,"~/frontend/exam.html"
+'3  36  6  ~/frontend/admin.html
+|4,51,36,6,1760873595,"~/frontend/admin.html"
+'4  342  0  ~/DevOps
+|4,52,342,0,1760873389,"~/DevOps"
+'5  682  0  ~/DevOps
+|4,53,682,0,1760873184,"~/DevOps"
+'6  341  0  ~/DevOps
+|4,54,341,0,1760873184,"~/DevOps"
+'7  255  0  ~/jenkinsfile
+|4,55,255,0,1760872852,"~/jenkinsfile"
+'8  506  7  ~/jenkinsfile
+|4,56,506,7,1760872575,"~/jenkinsfile"
+'9  252  7  ~/jenkinsfile
+|4,57,252,7,1760872575,"~/jenkinsfile"
 
 # Jumplist (newest first):
+-'  288  0  ~/frontend/result.html
+|4,39,288,0,1760874144,"~/frontend/result.html"
+-'  1  0  ~/frontend/result.html
+|4,39,1,0,1760874136,"~/frontend/result.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
+-'  1  0  ~/frontend/admin.html
+|4,39,1,0,1760873570,"~/frontend/admin.html"
 -'  342  0  ~/DevOps
 |4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  342  0  ~/DevOps
+|4,39,342,0,1760873389,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873373,"~/DevOps"
 -'  1  0  ~/DevOps
 |4,39,1,0,1760873373,"~/DevOps"
 -'  682  0  ~/DevOps
 |4,39,682,0,1760873184,"~/DevOps"
 -'  341  0  ~/DevOps
 |4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
+-'  682  0  ~/DevOps
+|4,39,682,0,1760873184,"~/DevOps"
+-'  341  0  ~/DevOps
+|4,39,341,0,1760873184,"~/DevOps"
 -'  1  0  ~/DevOps
 |4,39,1,0,1760873147,"~/DevOps"
--'  255  0  ~/jenkinsfile
-|4,39,255,0,1760872852,"~/jenkinsfile"
--'  255  0  ~/jenkinsfile
-|4,39,255,0,1760872852,"~/jenkinsfile"
--'  255  0  ~/jenkinsfile
-|4,39,255,0,1760872852,"~/jenkinsfile"
--'  255  0  ~/jenkinsfile
-|4,39,255,0,1760872852,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872580,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872580,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872580,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872580,"~/jenkinsfile"
--'  506  7  ~/jenkinsfile
-|4,39,506,7,1760872575,"~/jenkinsfile"
--'  252  7  ~/jenkinsfile
-|4,39,252,7,1760872575,"~/jenkinsfile"
--'  506  7  ~/jenkinsfile
-|4,39,506,7,1760872575,"~/jenkinsfile"
--'  252  7  ~/jenkinsfile
-|4,39,252,7,1760872575,"~/jenkinsfile"
--'  506  7  ~/jenkinsfile
-|4,39,506,7,1760872575,"~/jenkinsfile"
--'  252  7  ~/jenkinsfile
-|4,39,252,7,1760872575,"~/jenkinsfile"
--'  506  7  ~/jenkinsfile
-|4,39,506,7,1760872575,"~/jenkinsfile"
--'  252  7  ~/jenkinsfile
-|4,39,252,7,1760872575,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872538,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872538,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872538,"~/jenkinsfile"
--'  1  0  ~/jenkinsfile
-|4,39,1,0,1760872538,"~/jenkinsfile"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  42  16  ~/docker-compose.yml
-|4,39,42,16,1760872143,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
--'  1  0  ~/docker-compose.yml
-|4,39,1,0,1760872126,"~/docker-compose.yml"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873147,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873147,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873147,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873147,"~/DevOps"
+-'  1  0  ~/DevOps
+|4,39,1,0,1760873147,"~/DevOps"
 
 # History of marks within files (newest to oldest):
+
+> ~/frontend/result.html
+	*	1760874142	0
+	"	288	0
+	^	288	0
+	.	287	7
+	+	287	7
+
+> ~/frontend/index.html
+	*	1760873975	0
+	"	400	0
+	^	400	0
+	.	399	7
+	+	399	7
+
+> ~/frontend/exam.html
+	*	1760873745	0
+	"	425	0
+	^	425	0
+	.	424	7
+	+	424	7
+
+> ~/frontend/admin.html
+	*	1760873592	0
+	"	36	6
+	^	36	7
+	.	36	6
+	+	36	6
 
 > ~/DevOps
 	*	1760873386	0
