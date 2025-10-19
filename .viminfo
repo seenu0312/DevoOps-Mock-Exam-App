@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1760874144,,"wq!"
+|2,0,1760874491,,"wq!"
 :q!
 |2,0,1760873184,,"q!"
 
@@ -27,36 +27,84 @@
 # Registers:
 
 # File marks:
-'0  288  0  ~/frontend/result.html
-|4,48,288,0,1760874144,"~/frontend/result.html"
-'1  400  0  ~/frontend/index.html
-|4,49,400,0,1760873978,"~/frontend/index.html"
-'2  425  0  ~/frontend/exam.html
-|4,50,425,0,1760873747,"~/frontend/exam.html"
-'3  36  6  ~/frontend/admin.html
-|4,51,36,6,1760873595,"~/frontend/admin.html"
-'4  342  0  ~/DevOps
-|4,52,342,0,1760873389,"~/DevOps"
-'5  682  0  ~/DevOps
-|4,53,682,0,1760873184,"~/DevOps"
-'6  341  0  ~/DevOps
-|4,54,341,0,1760873184,"~/DevOps"
-'7  255  0  ~/jenkinsfile
-|4,55,255,0,1760872852,"~/jenkinsfile"
-'8  506  7  ~/jenkinsfile
-|4,56,506,7,1760872575,"~/jenkinsfile"
-'9  252  7  ~/jenkinsfile
-|4,57,252,7,1760872575,"~/jenkinsfile"
+'0  11  1  ~/frontend/db/init.sql
+|4,48,11,1,1760874491,"~/frontend/db/init.sql"
+'1  11  1  ~/frontend/database/init.sql
+|4,49,11,1,1760874299,"~/frontend/database/init.sql"
+'2  288  0  ~/frontend/result.html
+|4,50,288,0,1760874144,"~/frontend/result.html"
+'3  400  0  ~/frontend/index.html
+|4,51,400,0,1760873978,"~/frontend/index.html"
+'4  425  0  ~/frontend/exam.html
+|4,52,425,0,1760873747,"~/frontend/exam.html"
+'5  36  6  ~/frontend/admin.html
+|4,53,36,6,1760873595,"~/frontend/admin.html"
+'6  342  0  ~/DevOps
+|4,54,342,0,1760873389,"~/DevOps"
+'7  682  0  ~/DevOps
+|4,55,682,0,1760873184,"~/DevOps"
+'8  341  0  ~/DevOps
+|4,56,341,0,1760873184,"~/DevOps"
+'9  255  0  ~/jenkinsfile
+|4,57,255,0,1760872852,"~/jenkinsfile"
 
 # Jumplist (newest first):
+-'  11  1  ~/frontend/db/init.sql
+|4,39,11,1,1760874491,"~/frontend/db/init.sql"
+-'  1  0  ~/frontend/db/init.sql
+|4,39,1,0,1760874473,"~/frontend/db/init.sql"
+-'  11  1  ~/frontend/database/init.sql
+|4,39,11,1,1760874299,"~/frontend/database/init.sql"
+-'  11  1  ~/frontend/database/init.sql
+|4,39,11,1,1760874299,"~/frontend/database/init.sql"
+-'  1  0  ~/frontend/database/init.sql
+|4,39,1,0,1760874279,"~/frontend/database/init.sql"
+-'  1  0  ~/frontend/database/init.sql
+|4,39,1,0,1760874279,"~/frontend/database/init.sql"
 -'  288  0  ~/frontend/result.html
 |4,39,288,0,1760874144,"~/frontend/result.html"
+-'  288  0  ~/frontend/result.html
+|4,39,288,0,1760874144,"~/frontend/result.html"
+-'  288  0  ~/frontend/result.html
+|4,39,288,0,1760874144,"~/frontend/result.html"
+-'  288  0  ~/frontend/result.html
+|4,39,288,0,1760874144,"~/frontend/result.html"
+-'  1  0  ~/frontend/result.html
+|4,39,1,0,1760874136,"~/frontend/result.html"
+-'  1  0  ~/frontend/result.html
+|4,39,1,0,1760874136,"~/frontend/result.html"
+-'  1  0  ~/frontend/result.html
+|4,39,1,0,1760874136,"~/frontend/result.html"
 -'  1  0  ~/frontend/result.html
 |4,39,1,0,1760874136,"~/frontend/result.html"
 -'  400  0  ~/frontend/index.html
 |4,39,400,0,1760873978,"~/frontend/index.html"
 -'  400  0  ~/frontend/index.html
 |4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  400  0  ~/frontend/index.html
+|4,39,400,0,1760873978,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
+-'  1  0  ~/frontend/index.html
+|4,39,1,0,1760873971,"~/frontend/index.html"
 -'  1  0  ~/frontend/index.html
 |4,39,1,0,1760873971,"~/frontend/index.html"
 -'  1  0  ~/frontend/index.html
@@ -69,6 +117,54 @@
 |4,39,425,0,1760873747,"~/frontend/exam.html"
 -'  425  0  ~/frontend/exam.html
 |4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  425  0  ~/frontend/exam.html
+|4,39,425,0,1760873747,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
+-'  1  0  ~/frontend/exam.html
+|4,39,1,0,1760873740,"~/frontend/exam.html"
 -'  1  0  ~/frontend/exam.html
 |4,39,1,0,1760873740,"~/frontend/exam.html"
 -'  1  0  ~/frontend/exam.html
@@ -93,6 +189,54 @@
 |4,39,36,6,1760873595,"~/frontend/admin.html"
 -'  36  6  ~/frontend/admin.html
 |4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
+-'  36  6  ~/frontend/admin.html
+|4,39,36,6,1760873595,"~/frontend/admin.html"
 -'  1  0  ~/frontend/admin.html
 |4,39,1,0,1760873570,"~/frontend/admin.html"
 -'  1  0  ~/frontend/admin.html
@@ -105,152 +249,22 @@
 |4,39,1,0,1760873570,"~/frontend/admin.html"
 -'  1  0  ~/frontend/admin.html
 |4,39,1,0,1760873570,"~/frontend/admin.html"
--'  1  0  ~/frontend/admin.html
-|4,39,1,0,1760873570,"~/frontend/admin.html"
--'  1  0  ~/frontend/admin.html
-|4,39,1,0,1760873570,"~/frontend/admin.html"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  342  0  ~/DevOps
-|4,39,342,0,1760873389,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873373,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  682  0  ~/DevOps
-|4,39,682,0,1760873184,"~/DevOps"
--'  341  0  ~/DevOps
-|4,39,341,0,1760873184,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
--'  1  0  ~/DevOps
-|4,39,1,0,1760873147,"~/DevOps"
 
 # History of marks within files (newest to oldest):
+
+> ~/frontend/db/init.sql
+	*	1760874489	0
+	"	11	1
+	^	11	2
+	.	11	1
+	+	11	1
+
+> ~/frontend/database/init.sql
+	*	1760874296	0
+	"	11	1
+	^	11	2
+	.	11	1
+	+	11	1
 
 > ~/frontend/result.html
 	*	1760874142	0
