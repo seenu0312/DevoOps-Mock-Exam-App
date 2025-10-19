@@ -158,8 +158,7 @@ Goto the Jenkins console ---> Manage Jenkins ---> Security ---> Credentials --->
 ==========================================
 Lets configure the SonarQube server;
 Goto SonarQube console --- Click on 'Administration' --- Click on 'Security' --- Select 'Users' --- You can see 'Tokens' --- Click on 3 dashes icon --- A New dialogue --- Name: token, Expires in: 90days --- Generate --- You can see token in green colour. Copy it. 
-Token: squ_655a181a2da0ce3bfd088ff588e1e282f7c71a1c
-
+Token: squ_d397a4d22c7ad68f4728fc321ea0bf88c5c8619b
 Manage Jenkins --- Security --- Credentials --- Click on 'global' --- Click on 'Add Credentials' --- Kind: Secret text, Scope: Global, Secret: <Paste the token copied from SonarQube console>, ID: sonar-token, Description: sonar-token --- Create
 
 Creation of SonarQube webhooks ----> Administration ----> 'Configuration' dropdown ----> Webhooks ----> Click on 'Create' ----> Name: jenkins, URL: <JenkinsURL>:8080/sonarqube-webhook/ ---> Create
